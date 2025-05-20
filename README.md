@@ -1,17 +1,37 @@
 
-## Hi there 👋
+# 👋 Welcome to my GitHub!
 
-I'm a PhD student in Clinical Research with specializations in Data Science and Data Analysis and a strong foundation in Bioinformatics. I come from a background in Biology, which led me to an interest in applying data science to healthcare and biological research. I'm interested in applying data-driven approaches to real-world problems, both within and beyond the life sciences.
+I'm a data scientist and bioinformatician with a strong background in biology and clinical research. I specialize in extracting insights from complex datasets—ranging from omics (RNA-seq, single-cell RNA-seq) to structured clinical data—using statistical modeling, machine learning, and data visualization techniques.
 
-🔭 **Currently working on**: 
-- Mining large clinical and omic datasets (RNA-seq, single-cell RNA sequencing) to extract useful knowledge and inform decision-making.
+I enjoy turning data into actionable knowledge, especially in projects where science, health, and technology intersect.
 
-🌱 **Currently learning**: 
-- Exploring machine learning and advanced statistical analysis for data-driven healthcare and biological research applications.
-- Developing my expertise in Data Science practices, including machine learning, statistical analysis, data wrangling, and visualization tools.
-- Constantly striving to improve my Python, R, SQL, and statistical analysis skills to solve complex data problems with an emphasis on data wrangling, exploratory data analysis (EDA), predictive modeling, and machine learning.
+---
 
-📫 **How to reach me**: 
-- Feel free to contact me via email or connect with me through my GitHub repositories. I’m always open to discussing new projects, potential collaborations, or sharing ideas about applying data science in the healthcare and life sciences sectors.
+## 🔍 Interests & Expertise
 
-Thanks for visiting my profile! Let's connect and explore new ways to apply data science to biology and medicine! ✨
+- Data science for healthcare and life sciences  
+- Predictive modeling and pattern recognition  
+- Machine learning with real-world impact  
+- Data wrangling, EDA, and visualization in R and Python  
+- Working with omics, clinical, and behavioral datasets  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** R, Python, SQL  
+- **Tools:** tidyverse, scikit-learn, ggplot2, caret, Seaborn, pandas  
+- **Domains:** Bioinformatics, clinical research, data science  
+
+---
+
+## 📂 Portfolio Projects
+
+Check out the repositories below — I’m building a collection of applied projects using real-world datasets, where I explore clustering, predictive models, and visual storytelling with data among others.
+
+---
+
+## 🤝 Let’s connect!
+
+I'm always interested in exchanging ideas, exploring new data challenges, or contributing to meaningful data-driven projects.  
+Feel free to reach out via GitHub or email — happy to connect with others passionate about data science and bioinformatics.
