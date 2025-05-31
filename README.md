@@ -35,3 +35,7 @@ Check out the repositories below — I’m building a collection of applied proj
 
 I'm always interested in exchanging ideas, exploring new data challenges, or contributing to meaningful data-driven projects.  
 Feel free to reach out via GitHub or email — happy to connect with others passionate about data science and bioinformatics.
+
+
+📧 israelddh@hotmail.com  
+🔗 [www.linkedin.com/in/israel-duarte/](https://www.linkedin.com/in/israel-duarte/)
