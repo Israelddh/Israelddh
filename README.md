@@ -38,4 +38,6 @@ Feel free to reach out via GitHub or email — happy to connect with others pass
 
 
 📧 israelddh@hotmail.com  
-🔗 [www.linkedin.com/in/israel-duarte/](https://www.linkedin.com/in/israel-duarte/)
+🔗 [www.linkedin.com/in/israel-duarte/](https://www.linkedin.com/in/israel-duarte/)  
+🆔 [ORCID Profile](https://orcid.org/0000-0001-5427-6019)
+
