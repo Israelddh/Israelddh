@@ -1,46 +1,48 @@
 <h3 align="center">👋 Welcome to my GitHub</h3>
 
 <p align="center">
-I'm a data scientist and bioinformatician with a strong background in biology and clinical research. I specialize in extracting insights from complex datasets—ranging from omics (RNA-seq, single-cell RNA-seq) to structured clinical data—using statistical modeling, machine learning, and data visualization techniques.<br>
-I enjoy turning data into actionable knowledge, especially in projects where science, health, and technology intersect.
+I'm a data analyst and biologist with experience across research and applied domains — from marine and environmental science to healthcare and sustainability.<br>
+I specialize in extracting insights from complex datasets using R, Python, and SQL, combining scientific rigor with a data-driven mindset.<br>
+My background bridges fieldwork and data science, allowing me to turn complex information into clear, actionable insights.
 </p>
 
 ---
 
 ### 🔍 Interests & Expertise
 
-- Data science for healthcare and life sciences  
-- Predictive modeling and pattern recognition  
-- Machine learning with real-world impact  
+- Data analytics for science, health, and sustainability  
+- Predictive modeling, clustering, and pattern recognition  
 - Data wrangling, EDA, and visualization in R and Python  
-- Working with omics, clinical, and behavioral datasets  
+- Machine learning applied to real-world datasets  
+- Transforming data into actionable knowledge for research and decision-making  
 
 ---
 
 ### 🛠 Tech Stack
 
 **Languages:** R, Python, SQL  
-**Tools:** tidyverse, scikit-learn, ggplot2, caret, Seaborn, pandas  
-**Domains:** Bioinformatics, clinical research, data science  
+**Tools:** tidyverse, pandas, ggplot2, seaborn, scikit-learn, Power BI  
+**Domains:** Data analytics, sustainability, healthcare research, bioinformatics  
 
 ---
 
 ### 📂 Portfolio Projects
 
-Check out the repositories below — I’m building a collection of applied projects using real-world datasets, exploring clustering, predictive models, and visual storytelling with data.
+Check out the repositories below — a collection of applied projects using real-world datasets, exploring data cleaning, visualization, and predictive modeling across science and sustainability contexts.
 
 ---
 
 ### 🤝 Let’s connect!
 
-I'm always interested in exchanging ideas, exploring new data challenges, or contributing to meaningful data-driven projects.  
-Feel free to reach out via GitHub or email — happy to connect with others passionate about data science and bioinformatics.
+I'm always open to collaborating, sharing ideas, or contributing to meaningful data-driven projects.<br>
+Feel free to reach out — happy to connect with others passionate about science, data, and sustainability.
 
 📧 [israelddh@hotmail.com](mailto:israelddh@hotmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/israel-duarte/)  
 🆔 [ORCID Profile](https://orcid.org/0000-0001-5427-6019)
 
 ---
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="RStudio logo" />
