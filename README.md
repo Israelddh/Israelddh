@@ -1,7 +1,7 @@
 <h3 align="center">👋 Welcome to my GitHub</h3>
 
 <p align="center">
-I'm a data analyst and biologist with experience across research and applied domains — from marine and environmental science to healthcare and sustainability.<br>
+I'm a data analyst and bioinformatician with experience across research and applied domains — from marine and environmental science to healthcare and sustainability.<br>
 I specialize in extracting insights from complex datasets using R, Python, and SQL, combining scientific rigor with a data-driven mindset.<br>
 My background bridges fieldwork and data science, allowing me to turn complex information into clear, actionable insights.
 </p>
