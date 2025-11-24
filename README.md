@@ -10,19 +10,20 @@ My background bridges research and applied analytics, enabling me to transform d
 
 ### 🔍 Interests & Expertise
 
-- Data analytics for science, health, and sustainability  
-- Predictive modeling, clustering, and pattern recognition  
-- Data wrangling, EDA, and visualization in R and Python  
-- Machine learning applied to real-world datasets  
-- Transforming data into actionable knowledge for research and decision-making  
+- Healthcare and scientific data analytics  
+- Exploratory analysis, data cleaning, and visualization in R and Python  
+- Predictive modelling, clustering, and pattern analysis  
+- Workflow design, reproducible analysis, and analytical reporting  
+- Turning complex datasets into clear insights for research and decision-making  
 
 ---
 
 ### 🛠 Tech Stack
 
 **Languages:** R, Python, SQL  
-**Tools:** tidyverse, pandas, ggplot2, seaborn, scikit-learn, Power BI  
-**Domains:** Data analytics, sustainability, healthcare research, bioinformatics  
+**Tools:** tidyverse, pandas, ggplot2, seaborn, scikit-learn, Power BI, Tableau  
+**Domains:** Data analytics, healthcare research, bioinformatics  
+**Strengths:** Data cleaning & wrangling, statistical modelling, dashboards, and analytical reporting  
 
 ---
 
