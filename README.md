@@ -1,9 +1,9 @@
 <h3 align="center">👋 Welcome to my GitHub</h3>
 
 <p align="center">
-I'm a data analyst and bioinformatician with experience across research and applied domains — from marine and environmental science to healthcare and sustainability.<br>
-I specialize in extracting insights from complex datasets using R, Python, and SQL, combining scientific rigor with a data-driven mindset.<br>
-My background bridges fieldwork and data science, allowing me to turn complex information into clear, actionable insights.
+I'm a data analyst with a strong foundation in bioinformatics and biostatistics, experienced in working with clinical, biological, and healthcare datasets.<br>
+I extract insights from complex information using R, Python, and SQL, applying scientific rigor and a clear analytical mindset.<br>
+My background bridges research and applied analytics, enabling me to transform data into clear, actionable insights for decision-making in healthcare and beyond.
 </p>
 
 ---
