@@ -1,56 +1,51 @@
-<h3 align="center">👋 Welcome to my GitHub</h3>
+<h3 align="center">Data Analyst | Turning Complex Data into Clear Decisions</h3>
 
 <p align="center">
-I'm a data analyst with a strong foundation in bioinformatics and biostatistics, experienced in working with clinical, biological, and healthcare datasets.<br>
-I extract insights from complex information using R, Python, and SQL, applying scientific rigor and a clear analytical mindset.<br>
-My background bridges research and applied analytics, enabling me to transform data into clear, actionable insights for decision-making in healthcare and beyond.
+Data Analyst with experience working across clinical, scientific, and operational datasets.<br>
+I specialize in transforming raw, complex data into structured insights that support decision-making, performance optimization, and strategic planning.<br>
+My background combines scientific rigor with practical analytics, allowing me to move confidently between research-oriented and business-driven environments.
 </p>
 
 ---
 
-### 🔍 Interests & Expertise
+### 🔍 Focus Areas
 
-- Healthcare and scientific data analytics  
-- Exploratory analysis, data cleaning, and visualization in R and Python  
-- Predictive modelling, clustering, and pattern analysis  
-- Workflow design, reproducible analysis, and analytical reporting  
-- Turning complex datasets into clear insights for research and decision-making  
+- Data cleaning, transformation, and quality control  
+- Exploratory data analysis & statistical insight generation  
+- Dashboarding and business reporting  
+- Predictive modelling & segmentation analysis  
+- Designing reproducible analytical workflows  
 
 ---
 
 ### 🛠 Tech Stack
 
-**Languages:** R, Python, SQL  
-**Tools:** tidyverse, pandas, ggplot2, seaborn, scikit-learn, Power BI, Tableau  
-**Domains:** Data analytics, healthcare research, bioinformatics  
-**Strengths:** Data cleaning & wrangling, statistical modelling, dashboards, and analytical reporting  
+**Languages:** Python, R, SQL  
+**Analytics & ML:** pandas, tidyverse, scikit-learn  
+**Visualization:** Power BI, Tableau, ggplot2  
+**Data Handling:** PostgreSQL, data modelling, ETL concepts  
+**Workflow:** Git, reproducible reporting, structured documentation  
 
 ---
 
-### 📂 Portfolio Projects
+### 📂 What You’ll Find Here
 
-Check out the repositories below — a collection of applied projects using real-world datasets, exploring data cleaning, visualization, and predictive modeling across science and sustainability contexts.
+A collection of applied analytics projects using real-world datasets, focused on:
+
+- End-to-end data workflows  
+- Business-oriented insights  
+- Visualization & reporting  
+- Predictive and exploratory modelling  
+
+Each project reflects structured thinking, analytical clarity, and practical implementation.
 
 ---
 
-### 🤝 Let’s connect!
+### 🤝 Open to Opportunities
 
-I'm always open to collaborating, sharing ideas, or contributing to meaningful data-driven projects.<br>
-Feel free to reach out — happy to connect with others passionate about science, data, and sustainability.
+I’m open to remote roles in data analytics where structured thinking, reliability, and analytical depth are valued — particularly in healthcare, research, and data-driven organizations.
 
 📧 [israelddh@hotmail.com](mailto:israelddh@hotmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/israel-duarte/)  
 🆔 [ORCID Profile](https://orcid.org/0000-0001-5427-6019)
-
----
-
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="RStudio logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
-</div>
 
