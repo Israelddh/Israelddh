@@ -1,4 +1,4 @@
-<h3 align="center">Healthcare Data Analyst | Clinical Research, Real-World Data & Environmental Health Analytics</h3>
+<h3 align="center">Healthcare Data Analyst | Real-World Data & Environmental Health Analytics</h3>
 
 <p align="center">
 Healthcare data professional with experience working across clinical, epidemiological, biomedical and omics datasets in research and healthcare environments.  
