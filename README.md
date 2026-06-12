@@ -1,70 +1,95 @@
-<h3 align="center">Healthcare Data Analyst | Real-World Data & Environmental Health Analytics</h3>
+<h3 align="center">Healthcare Data Analyst | Real-World Data | BI & Data Analytics</h3>
 
 <p align="center">
-Healthcare data professional with experience working across clinical, epidemiological, biomedical and omics datasets in research and healthcare environments.  
-I specialize in transforming complex, high-dimensional health data into structured, reproducible insights that support clinical interpretation, data quality assurance, and evidence-based decision-making.
+Healthcare data professional with experience across clinical, epidemiological, biomedical, and real-world datasets in research and healthcare environments.  
 
-My background combines formal training in biology, bioinformatics and biostatistics with applied experience in healthcare analytics and data systems. I operate at the intersection of clinical research, real-world data analysis and computational health science.
+I specialize in transforming complex and high-dimensional data into structured, reproducible insights that support decision-making, data quality assurance, and operational or clinical reporting.
 
-Currently oriented toward advanced research pathways (PhD-level work) focused on environmental health, population-level exposure inequalities, and data-driven public health analysis across European populations.
+My background combines biology, bioinformatics, and biostatistics with applied experience in healthcare analytics, KPI reporting, and business intelligence systems.
+
+I currently work at the intersection of healthcare analytics, general data analysis, and BI development, with a strong focus on reproducibility, clarity, and data-driven decision support.
+
+My main specialization is healthcare and clinical data, but I am also actively open to roles in:
+- Data Analyst (general)
+- Business Intelligence Analyst
+- Data Analytics (cross-domain environments)
 </p>
 
 ---
 
-### Focus Areas
+## Focus Areas
 
-- Clinical, epidemiological and biomedical data analysis  
+- Clinical, epidemiological, and biomedical data analysis  
 - Real-world data (RWD) and real-world evidence (RWE) workflows  
-- Data quality assessment, validation and discrepancy detection in clinical systems  
-- Exploratory and statistical analysis of health datasets  
-- KPI definition and operational/clinical reporting  
-- Reproducible analytical pipelines and structured data workflows  
-- Environmental health data analysis and population-level exposure assessment  
+- Data quality assessment, validation, and discrepancy detection in structured systems  
+- KPI definition, tracking, and operational reporting (clinical & business contexts)  
+- Exploratory data analysis and statistical modeling  
+- Dashboard development for decision support (clinical and business intelligence)  
+- Environmental health and population-level exposure analysis  
 
 ---
 
-### Tech Stack
+## Tech Stack
 
 **Languages:** Python, R, SQL  
 **Data Analysis:** pandas, tidyverse, NumPy, SciPy  
 **Statistics:** regression models, ANOVA, mixed models, exploratory biostatistics  
-**Visualization:** Power BI, Tableau, ggplot2  
-**Data Systems:** PostgreSQL, relational data modelling, ETL concepts  
-**Workflow & Tools:** Git, GitHub, Jupyter Notebooks, R Markdown, reproducible reporting  
+**Visualization & BI:** Power BI, Tableau, ggplot2  
+**Data Systems:** PostgreSQL, relational data modeling, ETL concepts  
+**Workflow & Tools:** Git, GitHub, Jupyter Notebooks, R Markdown  
 
 ---
 
-### Selected Work
+## Selected Work
 
-This portfolio contains applied projects in healthcare and scientific data analysis, including:
+This portfolio includes applied projects in healthcare, analytics, and BI:
 
 - Clinical data quality and EDC query management systems  
 - KPI dashboards for operational and clinical decision support  
-- Biomedical and bioinformatics data analysis (thesis-level work)  
-- R package development for reproducible analytical workflows  
+- Business intelligence dashboards for structured reporting and analysis  
+- Biomedical and bioinformatics data analysis projects  
+- Reproducible analytical workflows using Python and R  
 - Exploratory and statistical analysis of healthcare datasets  
 
-Each project reflects structured analytical thinking, reproducibility, and a focus on real-world healthcare and research applications.
+Each project is designed to demonstrate:
+- Structured analytical thinking  
+- Data quality awareness  
+- Reproducible workflows  
+- Practical decision-support analytics (healthcare + business contexts)
 
 ---
 
-### Research & Direction
+## Research & Direction
 
-My current long-term focus is the intersection of:
+My long-term research direction focuses on:
 
 - Environmental health and exposure science (air pollution, radiation, population health inequalities)  
-- Clinical and real-world healthcare data analysis  
-- Data-driven public health research in European contexts (NUTS2-level inequality frameworks)  
-- PhD-level research in computational health science and environmental epidemiology  
+- Real-world healthcare data analysis and clinical research informatics  
+- Data-driven public health analysis in European populations (NUTS2-level inequality frameworks)  
+- Computational health science and applied biostatistics  
 
-This direction aligns with future work in research institutions, public health agencies, and international organizations.
+This trajectory aligns with work in research institutions, healthcare organizations, and public health agencies.
 
 ---
 
-### Open to Opportunities
+## Open to Opportunities
 
-I am open to remote roles in healthcare data analytics, clinical data science, and real-world data research, particularly in environments focused on data quality, reproducibility, and evidence-based decision-making.
+I am open to remote roles in:
 
-📧 <a href="mailto:israelddh@hotmail.com">israelddh@hotmail.com</a>  
-🔗 <a href="https://www.linkedin.com/in/israel-duarte/">LinkedIn</a>  
-🆔 <a href="https://orcid.org/0000-0001-5427-6019">ORCID Profile</a>
+- Healthcare Data Analyst / Clinical Data Analyst  
+- Data Analyst (general / cross-domain)  
+- Business Intelligence Analyst  
+- Real-World Data (RWD) Analyst roles  
+
+With a strong preference for roles involving:
+- Data quality and validation  
+- KPI reporting and decision support  
+- Reproducible analytics and structured workflows  
+
+---
+
+## Contact
+
+Email: <a href="mailto:israelddh@hotmail.com">israelddh@hotmail.com</a>  
+LinkedIn: <a href="https://www.linkedin.com/in/israel-duarte/">LinkedIn</a>  
+ORCID: <a href="https://orcid.org/0000-0001-5427-6019">ORCID Profile</a>
