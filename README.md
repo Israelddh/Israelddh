@@ -1,4 +1,4 @@
-<h3 align="center">Healthcare Data Analyst | Real-World Data | BI & Data Analytics</h3>
+<h3 align="center">Healthcare Data Specialist | Scientific Communication & RWE | Connecting Clinical Data with Medical Insights</h3>
 
 <p align="center">
 Healthcare data professional with experience across clinical, epidemiological, biomedical, and real-world datasets in research and healthcare environments.  
