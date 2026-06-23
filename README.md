@@ -1,18 +1,13 @@
-<h3 align="center">Healthcare Data Specialist | Scientific Communication & RWE | Connecting Clinical Data with Medical Insights</h3>
+<h3 align="center">Healthcare Data Analyst | Real-World Evidence (RWE) & Scientific Communication</h3>
 
 <p align="center">
-Healthcare data professional with experience across clinical, epidemiological, biomedical, and real-world datasets in research and healthcare environments.  
+Healthcare data professional with experience working across clinical, epidemiological, and real-world datasets in research and healthcare environments.
 
-I specialize in transforming complex and high-dimensional data into structured, reproducible insights that support decision-making, data quality assurance, and operational or clinical reporting.
+I specialize in transforming complex healthcare data into reliable, reproducible evidence using structured analytical workflows in Python, R, and SQL, with a strong focus on data quality, validation, and transparency.
 
-My background combines biology, bioinformatics, and biostatistics with applied experience in healthcare analytics, KPI reporting, and business intelligence systems.
+My background in biology, bioinformatics, and applied statistics supports my work in healthcare analytics, real-world evidence generation, and decision-support reporting.
 
-I currently work at the intersection of healthcare analytics, general data analysis, and BI development, with a strong focus on reproducibility, clarity, and data-driven decision support.
-
-My main specialization is healthcare and clinical data, but I am also actively open to roles in:
-- Data Analyst (general)
-- Business Intelligence Analyst
-- Data Analytics (cross-domain environments)
+Alongside my core analytical work, I am developing skills in scientific communication, focusing on translating clinical and epidemiological evidence into clear, structured outputs for both technical and non-technical audiences.
 </p>
 
 ---
@@ -20,12 +15,11 @@ My main specialization is healthcare and clinical data, but I am also actively o
 ## Focus Areas
 
 - Clinical, epidemiological, and biomedical data analysis  
-- Real-world data (RWD) and real-world evidence (RWE) workflows  
-- Data quality assessment, validation, and discrepancy detection in structured systems  
-- KPI definition, tracking, and operational reporting (clinical & business contexts)  
-- Exploratory data analysis and statistical modeling  
-- Dashboard development for decision support (clinical and business intelligence)  
-- Environmental health and population-level exposure analysis  
+- Real-world data (RWD) and real-world evidence (RWE) generation  
+- Data quality assessment, validation, and reproducible analytics workflows  
+- Statistical analysis and exploratory data analysis  
+- KPI development and healthcare decision-support reporting  
+- Data visualization and dashboard development (clinical & BI contexts)  
 
 ---
 
@@ -33,58 +27,53 @@ My main specialization is healthcare and clinical data, but I am also actively o
 
 **Languages:** Python, R, SQL  
 **Data Analysis:** pandas, tidyverse, NumPy, SciPy  
-**Statistics:** regression models, ANOVA, mixed models, exploratory biostatistics  
+**Statistics:** regression models, ANOVA, exploratory biostatistics  
 **Visualization & BI:** Power BI, Tableau, ggplot2  
-**Data Systems:** PostgreSQL, relational data modeling, ETL concepts  
-**Workflow & Tools:** Git, GitHub, Jupyter Notebooks, R Markdown  
+**Data Systems:** PostgreSQL, relational data modeling  
+**Tools:** Git, GitHub, Jupyter Notebooks, R Markdown  
 
 ---
 
-## Selected Work
+## Selected Projects
 
-This portfolio includes applied projects in healthcare, analytics, and BI:
+Applied projects in healthcare analytics and real-world evidence:
 
-- Clinical data quality and EDC query management systems  
-- KPI dashboards for operational and clinical decision support  
-- Business intelligence dashboards for structured reporting and analysis  
-- Biomedical and bioinformatics data analysis projects  
-- Reproducible analytical workflows using Python and R  
-- Exploratory and statistical analysis of healthcare datasets  
+- Clinical data quality assessment and validation workflows  
+- KPI dashboards for healthcare decision support  
+- Real-world data analysis using structured clinical datasets  
+- Reproducible analytical pipelines in Python and R  
+- Exploratory statistical analysis of biomedical datasets  
 
-Each project is designed to demonstrate:
+Each project demonstrates:
+- Reproducible and transparent analysis  
+- Healthcare-focused data interpretation  
 - Structured analytical thinking  
-- Data quality awareness  
-- Reproducible workflows  
-- Practical decision-support analytics (healthcare + business contexts)
+- Decision-support oriented outputs  
 
 ---
 
-## Research & Direction
+## Research Interests
 
-My long-term research direction focuses on:
-
-- Environmental health and exposure science (air pollution, radiation, population health inequalities)  
-- Real-world healthcare data analysis and clinical research informatics  
-- Data-driven public health analysis in European populations (NUTS2-level inequality frameworks)  
-- Computational health science and applied biostatistics  
-
-This trajectory aligns with work in research institutions, healthcare organizations, and public health agencies.
+- Real-world evidence (RWE) and clinical research analytics  
+- Environmental health and population exposure analysis  
+- Health inequalities and epidemiological modeling in European populations  
+- Data-driven public health research and applied biostatistics  
 
 ---
 
 ## Open to Opportunities
 
-I am open to remote roles in:
+Open to remote roles in:
 
 - Healthcare Data Analyst / Clinical Data Analyst  
-- Data Analyst (general / cross-domain)  
-- Business Intelligence Analyst  
-- Real-World Data (RWD) Analyst roles  
+- Real-World Evidence (RWE) Analyst  
+- Healthcare Analytics / Data Analyst roles  
+- Business Intelligence roles in healthcare environments  
 
-With a strong preference for roles involving:
-- Data quality and validation  
-- KPI reporting and decision support  
-- Reproducible analytics and structured workflows  
+With a strong focus on:
+- Data quality and reproducibility  
+- Clinical and healthcare decision support  
+- Structured analytical workflows  
 
 ---
 
