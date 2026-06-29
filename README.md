@@ -1,79 +1,96 @@
-<h3 align="center">Healthcare Data Analyst | Real-World Evidence (RWE) & Scientific Communication</h3>
+<h3 align="center">Biomedical Scientist | Clinical Evidence | Scientific Communication & Real-World Research</h3>
 
 <p align="center">
-Healthcare data professional with experience working across clinical, epidemiological, and real-world datasets in research and healthcare environments.
+Biomedical scientist with a background in biology, bioinformatics, and clinical research, with experience working at the intersection of biomedical evidence, healthcare data, and scientific communication.
 
-I specialize in transforming complex healthcare data into reliable, reproducible evidence using structured analytical workflows in Python, R, and SQL, with a strong focus on data quality, validation, and transparency.
+I specialize in interpreting complex biomedical and clinical information, supporting reproducible research workflows, and translating scientific findings into clear, structured outputs for multidisciplinary audiences.
 
-My background in biology, bioinformatics, and applied statistics supports my work in healthcare analytics, real-world evidence generation, and decision-support reporting.
-
-Alongside my core analytical work, I am developing skills in scientific communication, focusing on translating clinical and epidemiological evidence into clear, structured outputs for both technical and non-technical audiences.
+My background combines applied statistics, clinical research environments, and scientific writing experience through biomedical publications and research projects.
 </p>
 
 ---
 
 ## Focus Areas
 
-- Clinical, epidemiological, and biomedical data analysis  
-- Real-world data (RWD) and real-world evidence (RWE) generation  
-- Data quality assessment, validation, and reproducible analytics workflows  
-- Statistical analysis and exploratory data analysis  
-- KPI development and healthcare decision-support reporting  
-- Data visualization and dashboard development (clinical & BI contexts)  
+- Clinical research and biomedical evidence
+- Real-world evidence (RWE) and healthcare research
+- Scientific communication and evidence synthesis
+- Interpretation of clinical and epidemiological findings
+- Biomedical data quality and reproducible workflows
+- Research methodology and scientific reporting
+- Translation of complex scientific concepts into clear information
 
 ---
 
-## Tech Stack
+## Scientific & Technical Background
 
-**Languages:** Python, R, SQL  
-**Data Analysis:** pandas, tidyverse, NumPy, SciPy  
-**Statistics:** regression models, ANOVA, exploratory biostatistics  
-**Visualization & BI:** Power BI, Tableau, ggplot2  
-**Data Systems:** PostgreSQL, relational data modeling  
-**Tools:** Git, GitHub, Jupyter Notebooks, R Markdown  
+**Biomedical Research**
+- Clinical and biomedical datasets
+- Epidemiological research approaches
+- Scientific literature analysis
+- Research documentation and reporting
+
+**Data & Analytical Methods**
+- R · Python · SQL
+- Statistical analysis
+- Exploratory data analysis
+- Data cleaning and validation
+- Reproducible research workflows
+
+**Scientific Tools**
+- R Markdown
+- Git / GitHub
+- Jupyter Notebooks
+- Scientific visualization
 
 ---
 
-## Selected Projects
+## Research & Communication Projects
 
-Applied projects in healthcare analytics and real-world evidence:
+Projects focused on biomedical evidence, scientific interpretation, and healthcare research:
 
-- Clinical data quality assessment and validation workflows  
-- KPI dashboards for healthcare decision support  
-- Real-world data analysis using structured clinical datasets  
-- Reproducible analytical pipelines in Python and R  
-- Exploratory statistical analysis of biomedical datasets  
+- Analysis and interpretation of clinical and biomedical datasets
+- Reproducible workflows for research applications
+- Scientific summaries of complex biomedical topics
+- Evidence synthesis from scientific literature
+- Communication of research findings for different audiences
 
 Each project demonstrates:
-- Reproducible and transparent analysis  
-- Healthcare-focused data interpretation  
-- Structured analytical thinking  
-- Decision-support oriented outputs  
+
+- Evidence-based reasoning
+- Scientific accuracy
+- Clear communication
+- Structured analytical thinking
+- Transparent and reproducible methods
 
 ---
 
 ## Research Interests
 
-- Real-world evidence (RWE) and clinical research analytics  
-- Environmental health and population exposure analysis  
-- Health inequalities and epidemiological modeling in European populations  
-- Data-driven public health research and applied biostatistics  
+- Medical writing and scientific communication
+- Real-world evidence generation
+- Clinical research and evidence-based healthcare
+- Environmental health and population health
+- Exposure assessment and health outcomes
+- Data-driven approaches to biomedical research
 
 ---
 
-## Open to Opportunities
+## Future Opportunities
 
-Open to remote roles in:
+Interested in remote opportunities related to:
 
-- Healthcare Data Analyst / Clinical Data Analyst  
-- Real-World Evidence (RWE) Analyst  
-- Healthcare Analytics / Data Analyst roles  
-- Business Intelligence roles in healthcare environments  
+- Scientific Communication
+- Medical Writing
+- Clinical Evidence
+- Real-World Evidence (RWE)
+- Biomedical Research Support
 
-With a strong focus on:
-- Data quality and reproducibility  
-- Clinical and healthcare decision support  
-- Structured analytical workflows  
+With a focus on:
+
+- Transforming complex scientific evidence into clear outputs
+- Supporting clinical and research decision-making
+- Improving communication between scientific information and its audiences
 
 ---
 
