@@ -1,96 +1,110 @@
-<h3 align="center">Biomedical Scientist | Clinical Evidence | Scientific Communication & Real-World Research</h3>
+<h3 align="center">Biomedical Scientist | Clinical Research & Evidence | Scientific Communication</h3>
 
 <p align="center">
-Biomedical scientist with a background in biology, bioinformatics, and clinical research, with experience working at the intersection of biomedical evidence, healthcare data, and scientific communication.
+Biomedical scientist with a background in biology, bioinformatics, and biostatistics, currently working in clinical and omics-based research environments.
 
-I specialize in interpreting complex biomedical and clinical information, supporting reproducible research workflows, and translating scientific findings into clear, structured outputs for multidisciplinary audiences.
+My experience focuses on the analysis and interpretation of clinical and biomedical data, supporting reproducible research workflows, and contributing to scientific publications in multidisciplinary healthcare settings.
 
-My background combines applied statistics, clinical research environments, and scientific writing experience through biomedical publications and research projects.
+I am particularly interested in translating complex biomedical evidence into structured, clear, and reproducible scientific outputs, bridging the gap between data analysis, research interpretation, and scientific communication.
 </p>
 
 ---
 
 ## Focus Areas
 
-- Clinical research and biomedical evidence
-- Real-world evidence (RWE) and healthcare research
-- Scientific communication and evidence synthesis
-- Interpretation of clinical and epidemiological findings
-- Biomedical data quality and reproducible workflows
-- Research methodology and scientific reporting
-- Translation of complex scientific concepts into clear information
+- Clinical and biomedical research
+- Transcriptomic and omics data analysis
+- Statistical analysis applied to healthcare research
+- Scientific literature interpretation and evidence synthesis
+- Reproducible research workflows
+- Research documentation and publication support
+- Emerging focus on scientific communication and medical writing
 
 ---
 
 ## Scientific & Technical Background
 
-**Biomedical Research**
-- Clinical and biomedical datasets
-- Epidemiological research approaches
-- Scientific literature analysis
-- Research documentation and reporting
+**Biomedical Research Experience**
+- Clinical and biomedical datasets (research environments)
+- Omics data analysis (transcriptomics and related approaches)
+- Epidemiological and clinical research support
+- Scientific interpretation of research findings
 
-**Data & Analytical Methods**
-- R · Python · SQL
-- Statistical analysis
-- Exploratory data analysis
-- Data cleaning and validation
-- Reproducible research workflows
+**Analytical Methods**
+- R · Python · SQL (supporting analysis workflows)
+- Statistical analysis (regression, clustering, exploratory methods)
+- Data cleaning, validation, and structuring
+- Reproducible analysis pipelines
 
-**Scientific Tools**
+**Research Tools**
 - R Markdown
 - Git / GitHub
 - Jupyter Notebooks
-- Scientific visualization
+- Scientific visualization tools (ggplot2, etc.)
 
 ---
 
-## Research & Communication Projects
+## Research & Professional Experience Context
 
-Projects focused on biomedical evidence, scientific interpretation, and healthcare research:
+Experience gained through biomedical research environments includes:
 
-- Analysis and interpretation of clinical and biomedical datasets
-- Reproducible workflows for research applications
-- Scientific summaries of complex biomedical topics
-- Evidence synthesis from scientific literature
-- Communication of research findings for different audiences
+- Clinical and omics data analysis in research projects (CIBER)
+- Contribution to scientific publications in peer-reviewed journals
+- Participation in multidisciplinary research teams (clinicians, epidemiologists, bioinformaticians)
+- Application of statistical and computational methods in healthcare research
+- Experience in environmental health and sustainability assessment (previous roles)
 
-Each project demonstrates:
+---
 
-- Evidence-based reasoning
-- Scientific accuracy
-- Clear communication
-- Structured analytical thinking
-- Transparent and reproducible methods
+## Publications
+
+Authored and co-authored peer-reviewed scientific publications in biomedical research, including:
+
+- Clinical and translational research studies
+- Transcriptomic and genetic association studies
+- Disease risk and biomarker-related research
+
+(Full list available in ORCID profile)
 
 ---
 
 ## Research Interests
 
 - Medical writing and scientific communication
-- Real-world evidence generation
 - Clinical research and evidence-based healthcare
-- Environmental health and population health
-- Exposure assessment and health outcomes
-- Data-driven approaches to biomedical research
+- Real-world evidence (RWE) generation
+- Environmental health and exposure science
+- Population health and epidemiological research
+- Biomedical data interpretation and translation
 
 ---
 
-## Future Opportunities
+## Current Development Direction
 
-Interested in remote opportunities related to:
+Actively developing skills in:
 
-- Scientific Communication
-- Medical Writing
-- Clinical Evidence
+- Scientific communication
+- Medical writing (regulatory and publication-oriented)
+- Evidence synthesis and structured scientific reporting
+- Plain language communication of scientific findings
+
+---
+
+## Open to Future Opportunities
+
+Interested in future remote opportunities related to:
+
+- Medical / Scientific Writing
+- Scientific Communication & Publications
+- Clinical Research Support
 - Real-World Evidence (RWE)
-- Biomedical Research Support
+- Biomedical Research & Evidence Interpretation
 
-With a focus on:
+With a strong focus on:
 
-- Transforming complex scientific evidence into clear outputs
-- Supporting clinical and research decision-making
-- Improving communication between scientific information and its audiences
+- Translating complex scientific data into clear and structured outputs
+- Supporting research and clinical decision-making
+- Improving communication of biomedical evidence
 
 ---
 
