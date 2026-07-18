@@ -1,115 +1,83 @@
-<h3 align="center">Biomedical Scientist | Clinical Research & Evidence | Scientific Communication</h3>
+<h3 align="center">Medical Writing Portfolio | Scientific Communication | Clinical Research</h3>
 
 <p align="center">
-Biomedical scientist with a background in biology, bioinformatics, and biostatistics, currently working in clinical and omics-based research environments.
-
-My experience focuses on the analysis and interpretation of clinical and biomedical data, supporting reproducible research workflows, and contributing to scientific publications in multidisciplinary healthcare settings.
-
-I am particularly interested in translating complex biomedical evidence into structured, clear, and reproducible scientific outputs, bridging the gap between data analysis, research interpretation, and scientific communication.
+A curated portfolio of practical medical writing samples developed from real biomedical research and peer-reviewed scientific literature.
 </p>
 
 ---
 
-## Focus Areas
+## About this Repository
 
-- Clinical and biomedical research
-- Transcriptomic and omics data analysis
-- Statistical analysis applied to healthcare research
-- Scientific literature interpretation and evidence synthesis
-- Reproducible research workflows
-- Research documentation and publication support
-- Emerging focus on scientific communication and medical writing
+This repository showcases practical examples of documents commonly produced by Medical Writers in pharmaceutical companies, Contract Research Organizations (CROs), and Medical Communications agencies.
+
+Each project is based on real scientific publications and has been developed to demonstrate the ability to critically interpret biomedical evidence, synthesize complex information, and communicate scientific findings clearly for different audiences.
+
+Rather than presenting a large collection of writing samples, this portfolio focuses on a small number of carefully selected projects, each highlighting a specific competency relevant to entry-level Medical Writing roles.
 
 ---
 
-## Scientific & Technical Background
+## About Me
 
-**Biomedical Research Experience**
-- Clinical and biomedical datasets (research environments)
-- Omics data analysis (transcriptomics and related approaches)
-- Epidemiological and clinical research support
-- Scientific interpretation of research findings
+My background combines biology, bioinformatics, and biostatistics with over three years of experience in clinical and translational research.
 
-**Analytical Methods**
-- R · Python · SQL (supporting analysis workflows)
-- Statistical analysis (regression, clustering, exploratory methods)
-- Data cleaning, validation, and structuring
-- Reproducible analysis pipelines
+I have collaborated with clinicians, epidemiologists, and bioinformaticians on multidisciplinary research projects involving clinical and multi-omic data, contributing to peer-reviewed publications and evidence generation.
 
-**Research Tools**
-- R Markdown
-- Git / GitHub
-- Jupyter Notebooks
-- Scientific visualization tools (ggplot2, etc.)
+As a first author, co-author, and peer reviewer of biomedical research, I have developed a strong foundation in scientific literature appraisal, research interpretation, and evidence-based communication.
+
+I am currently transitioning into Medical Writing, combining scientific rigor with clear, audience-focused communication to support healthcare research and evidence dissemination.
 
 ---
 
-## Research & Professional Experience Context
+## Current Development
 
-Experience gained through biomedical research environments includes:
+This repository marks my transition into Medical Writing.
 
-- Clinical and omics data analysis in research projects (CIBER)
-- Contribution to scientific publications in peer-reviewed journals
-- Participation in multidisciplinary research teams (clinicians, epidemiologists, bioinformaticians)
-- Application of statistical and computational methods in healthcare research
-- Experience in environmental health and sustainability assessment (previous roles)
+The first portfolio projects will be published soon and will showcase practical writing samples developed from real biomedical literature, reflecting the type of work performed in Medical Communications, Clinical Research, and Publication Writing.
+
+The goal is to build a focused portfolio that demonstrates the core competencies expected of an entry-level Medical Writer.
 
 ---
 
-## Publications
+## Planned Portfolio Projects
 
-Authored and co-authored peer-reviewed scientific publications in biomedical research, including:
-
-- Clinical and translational research studies
-- Transcriptomic and genetic association studies
-- Disease risk and biomarker-related research
-
-(Full list available in ORCID profile)
-
----
-
-## Research Interests
-
-- Medical writing and scientific communication
-- Clinical research and evidence-based healthcare
-- Real-world evidence (RWE) generation
-- Environmental health and exposure science
-- Population health and epidemiological research
-- Biomedical data interpretation and translation
+| Project | Primary Competencies |
+|----------|----------------------|
+| Scientific Summary | Scientific writing · Evidence synthesis |
+| Plain Language Summary | Patient communication · Health literacy |
+| Critical Appraisal | Critical thinking · Literature evaluation |
+| Literature Brief | Evidence synthesis · Scientific communication |
+| Medical Communications Project | Scientific presentation · Audience adaptation |
+| Clinical Study Report Synopsis | Clinical research · Structured scientific reporting |
 
 ---
 
-## Current Development Direction
+## Competencies Demonstrated
 
-Actively developing skills in:
-
-- Scientific communication
-- Medical writing (regulatory and publication-oriented)
-- Evidence synthesis and structured scientific reporting
-- Plain language communication of scientific findings
+- Scientific writing
+- Medical communication
+- Scientific literature interpretation
+- Critical appraisal
+- Evidence synthesis
+- Plain language communication
+- Clinical research
+- Publication writing
+- Audience-focused scientific communication
 
 ---
 
-## Open to Future Opportunities
+## Professional Goal
 
-Interested in future remote opportunities related to:
-
-- Medical / Scientific Writing
-- Scientific Communication & Publications
-- Clinical Research Support
-- Real-World Evidence (RWE)
-- Biomedical Research & Evidence Interpretation
-
-With a strong focus on:
-
-- Translating complex scientific data into clear and structured outputs
-- Supporting research and clinical decision-making
-- Improving communication of biomedical evidence
+This portfolio reflects my transition into Medical Writing and demonstrates practical competencies relevant to Junior Medical Writer positions in clinical research, Medical Communications, and the pharmaceutical industry.
 
 ---
 
 ## Contact
 
-Email: <a href="mailto:israelddh@hotmail.com">israelddh@hotmail.com</a>  
-LinkedIn: <a href="https://www.linkedin.com/in/israel-duarte/">LinkedIn</a>  
-ORCID: <a href="https://orcid.org/0000-0001-5427-6019">ORCID Profile</a>
+**Email**  
+<a href="mailto:israelddh@hotmail.com">israelddh@hotmail.com</a>
+
+**LinkedIn**  
+<a href="https://www.linkedin.com/in/israel-duarte/">linkedin.com/in/israel-duarte</a>
+
+**ORCID**  
+<a href="https://orcid.org/0000-0001-5427-6019">0000-0001-5427-6019</a>
