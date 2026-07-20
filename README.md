@@ -1,73 +1,60 @@
-<h3 align="center">Medical Writing Portfolio | Scientific Communication | Clinical Research</h3>
+<h3 align="center">Biomedical Scientist Transitioning into Medical Writing</h3>
 
 <p align="center">
-A curated portfolio of practical medical writing samples developed from real biomedical research and peer-reviewed scientific literature.
+Scientific Communication • Clinical Research • Evidence Synthesis
 </p>
 
 ---
 
-## About this Repository
-
-This repository showcases practical examples of documents commonly produced by Medical Writers in pharmaceutical companies, Contract Research Organizations (CROs), and Medical Communications agencies.
-
-Each project is based on real scientific publications and has been developed to demonstrate the ability to critically interpret biomedical evidence, synthesize complex information, and communicate scientific findings clearly for different audiences.
-
-Rather than presenting a large collection of writing samples, this portfolio focuses on a small number of carefully selected projects, each highlighting a specific competency relevant to entry-level Medical Writing roles.
-
----
-
-## About Me
+## About
 
 My background combines biology, bioinformatics, and biostatistics with over three years of experience in clinical and translational research.
 
-I have collaborated with clinicians, epidemiologists, and bioinformaticians on multidisciplinary research projects involving clinical and multi-omic data, contributing to peer-reviewed publications and evidence generation.
+I have collaborated with clinicians, epidemiologists, and bioinformaticians on multidisciplinary research projects involving clinical, epidemiological, and multi-omic data, contributing to peer-reviewed publications and evidence generation.
 
 As a first author, co-author, and peer reviewer of biomedical research, I have developed a strong foundation in scientific literature appraisal, research interpretation, and evidence-based communication.
 
-I am currently transitioning into Medical Writing, combining scientific rigor with clear, audience-focused communication to support healthcare research and evidence dissemination.
+I am currently transitioning into Medical Writing, with the goal of transforming complex biomedical evidence into clear, accurate, and audience-focused scientific communication.
 
 ---
 
-## Current Development
+## Medical Writing Portfolio
 
-This repository marks my transition into Medical Writing.
+This GitHub profile hosts a curated portfolio of practical medical writing projects based on real biomedical literature and peer-reviewed scientific publications.
 
-The first portfolio projects will be published soon and will showcase practical writing samples developed from real biomedical literature, reflecting the type of work performed in Medical Communications, Clinical Research, and Publication Writing.
+Each project is designed to demonstrate a specific competency expected of Junior Medical Writers working in pharmaceutical companies, Contract Research Organizations (CROs), and Medical Communications agencies.
 
-The goal is to build a focused portfolio that demonstrates the core competencies expected of an entry-level Medical Writer.
+Projects will be published as independent repositories as they are completed.
 
----
-
-## Planned Portfolio Projects
-
-| Project | Primary Competencies |
-|----------|----------------------|
-| Scientific Summary | Scientific writing · Evidence synthesis |
-| Plain Language Summary | Patient communication · Health literacy |
-| Critical Appraisal | Critical thinking · Literature evaluation |
-| Literature Brief | Evidence synthesis · Scientific communication |
-| Medical Communications Project | Scientific presentation · Audience adaptation |
-| Clinical Study Report Synopsis | Clinical research · Structured scientific reporting |
+| Project | Status | Primary Competency |
+|----------|--------|--------------------|
+| Scientific Summary | 🚧 In Progress | Scientific Writing & Evidence Synthesis |
+| Plain Language Summary | 📅 Planned | Plain Language Communication |
+| Critical Appraisal | 📅 Planned | Critical Appraisal & Literature Evaluation |
+| Literature Brief | 📅 Planned | Evidence Synthesis |
+| Medical Communications Project | 📅 Planned | Scientific Communication |
+| Clinical Study Report Synopsis | 📅 Planned | Clinical Research Reporting |
 
 ---
 
-## Competencies Demonstrated
+## Core Competencies
 
-- Scientific writing
-- Medical communication
-- Scientific literature interpretation
-- Critical appraisal
-- Evidence synthesis
-- Plain language communication
-- Clinical research
-- Publication writing
-- Audience-focused scientific communication
+- Scientific Writing
+- Medical Communication
+- Scientific Literature Interpretation
+- Critical Appraisal
+- Evidence Synthesis
+- Clinical Research
+- Plain Language Communication
+- Publication Writing
 
 ---
 
 ## Professional Goal
 
-This portfolio reflects my transition into Medical Writing and demonstrates practical competencies relevant to Junior Medical Writer positions in clinical research, Medical Communications, and the pharmaceutical industry.
+My objective is to build a portfolio that demonstrates practical competencies required for entry-level Medical Writer positions in clinical research, Medical Communications, and the pharmaceutical industry.
+
+The focus is on producing realistic, high-quality writing samples that reflect real-world medical writing tasks while continuously improving scientific communication skills.
 
 ---
 
