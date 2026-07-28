@@ -1,4 +1,4 @@
-<h3 align="center">Medical Writer | Biomedical Scientist | Clinical Research</h3>
+<h3 align="center">Medical Writer · Biomedical Research Scientist · Scientific Communication</h3>
 
 <p align="center">
 Transforming complex biomedical evidence into clear, accurate, and audience-focused scientific communication.
