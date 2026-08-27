@@ -28,8 +28,8 @@ New projects will be added progressively as the portfolio continues to grow.
 
 | Project | Status | Primary Competency |
 |----------|--------|--------------------|
-| Scientific Summary | 🚧 In Progress | Scientific Writing & Evidence Synthesis |
-| Plain Language Summary | 📅 Planned | Plain Language Communication |
+| Scientific Summary | Uploaded | Scientific Writing & Evidence Synthesis |
+| Plain Language Summary | 🚧 In Progress | Plain Language Communication |
 | Critical Appraisal | 📅 Planned | Critical Appraisal & Literature Evaluation |
 | Literature Brief | 📅 Planned | Evidence Synthesis |
 | Medical Communications Project | 📅 Planned | Scientific Communication |
